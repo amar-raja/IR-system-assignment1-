@@ -1,0 +1,20 @@
+Q01	bird population in national park
+Q02	hindu temples in coastal region
+Q03	historical village in kerala
+Q04	geography of lakes in india
+Q05	new science in modern physics
+Q06	scientific proofs of modern physics
+Q07	film of three friends
+Q08	historical cities of india
+Q09	german women monarch
+Q10	set theory indian mathematician
+Q11	indian literature fiction story
+Q12	fiction and ghost imaginary comedy novel
+Q13	inflammatory diseases and their symptoms
+Q14	age of heart stroke of covid patients
+Q15	antibiotics to cure dangerous disease
+Q16	indian COVID-19 pandemic
+Q17	efficient data structures
+Q18	some hashing algorithms
+Q19	role of artificial intelligence
+Q20	name some functional programming languages
